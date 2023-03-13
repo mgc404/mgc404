@@ -1,5 +1,5 @@
-- I’m interested in Industrial Engineer and programming.
-- I’m currently learning C/C++
+- I’m interested in Industrial Engineer and programming projects.
+- I’m currently learning C/C++ and Django framework
 - I’m looking to collaborate on programming projects.
 - How to reach me: mateugc26@gmail.com
 
